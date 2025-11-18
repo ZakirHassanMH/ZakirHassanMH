@@ -9,6 +9,8 @@
 I love building things that mix **tech + creativity** — from AI models to cool graphics and interactive systems.  
 Right now, I’m deep into **OCR, gesture recognition, and smart model selection systems** 👇
 
+<img src="https://media1.tenor.com/m/nrrBWGnDMU0AAAAd/homework-jim-carrey.gif" width="300"/>
+
 ---
 # 💫 About Me:
  🔭 What I’m Currently Working On<br>- ✍️ **Handwriting OCR (Tamil/Sinhala)** – Fine-tuning TrOCR for localized scripts  <br>- ✋ **Gesture-Based Control System** – Real-time tap & hand tracking using Mediapipe<br>- other AI stuffs <br><br>---<br><br>## 🧩 My Tech Stack<br>**Languages:** Python, HTML, C++  <br>**AI/ML:** PyTorch, TensorFlow, Mediapipe, Transformers  <br>**Design:** Photoshop, Figma, Illustrator  <br>**Tools:** Git, VS Code, Windows, Arduino<br><br>---<br><br>## 🎯 My Goals<br>- Build powerful but **data-efficient** AI tools  <br>- Become a professional **Engineer** 🔧⚡  <br>- Master Computer Vision & Advanced Computing  <br>- Launch real-world projects<br><br>---<br><br>## 🔥 Fun Stuff About Me<br>- I love mixing science with creativity  <br>- Black holes ✨ fascinate me  <br>- I explain tech using fun comparisons so anyone can get it   <br>- Emojis make everything better 😄🔥<br>
