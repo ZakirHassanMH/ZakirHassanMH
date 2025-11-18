@@ -16,7 +16,7 @@ Right now, I’m deep into **OCR, gesture recognition, and smart model selection
 ---
 
 ## 🧩 My Tech Stack
-**Languages:** Python, HTML, C++ 
+**Languages:** Python, HTML, C++  
 **AI/ML:** PyTorch, TensorFlow, Mediapipe, Transformers  
 **Design:** Photoshop, Figma, Illustrator  
 **Tools:** Git, VS Code, Windows, Arduino
